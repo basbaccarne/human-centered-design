@@ -7,7 +7,8 @@ Hieronder vindt u een overzicht van de opdrachten die de studenten in dit vak op
 
 
 # Overview of the 23-24 student projects
-#### 1. [404] (by)   
+#### 1. Car Dashboard (byLouik D’haeyere & Baptiste Braekevelt)   
+Github: 404
 <img src="" alt="hero" height="200"/> 
 
 ⚙ GitHub page
@@ -37,7 +38,8 @@ Hieronder vindt u een overzicht van de opdrachten die de studenten in dit vak op
 
 ⚙ [GitHub page](https://github.com/Kazn3/UCD_TreeSync)   
 
-#### 7. [404]
+#### 7. [404] (by Kai Cherchye & Robbe de Guytenaer)
+GitHub 404
 <img src="" alt="hero" height="200"/>
 ⚙ [GitHub page]()
 
