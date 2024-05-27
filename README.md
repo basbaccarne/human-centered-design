@@ -9,9 +9,12 @@ Hieronder vindt u een overzicht van de opdrachten die de studenten in dit vak op
 # Overview of the 23-24 student projects
 ## 1. Car Dashboard 
 *by Louik D’haeyere & Baptiste Braekevelt*     
-⚙ GitHub page: 404   
+⚙ [GitHub page](https://github.com/babouba2004/UCD_SEM1)   
 
-<img src="" alt="hero" height="200"/> 
+<div style="display: flex;">
+<img src="https://private-user-images.githubusercontent.com/170766817/333879097-d5e93358-c3e4-4879-927a-d2d4311833f3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY4MjY1MDgsIm5iZiI6MTcxNjgyNjIwOCwicGF0aCI6Ii8xNzA3NjY4MTcvMzMzODc5MDk3LWQ1ZTkzMzU4LWMzZTQtNDg3OS05MjdhLWQyZDQzMTE4MzNmMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyN1QxNjEwMDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNzViN2I5YjgwMTEwNzQ2NTg3NzU4OWVkYmQ2MjNlNmM0MmYxODlmOWQwNjJmNDA3ODM5NzE1MmUwMDJhZTkwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Kdx53oezdaEzmPK_L2eKnDNrY0QUW9VyHUVQDazoR04" alt="hero" height="200"/>
+<img src="https://private-user-images.githubusercontent.com/170766817/333879112-cbf25202-e53a-4f22-9612-16216b4abeaa.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY4MjY1MDgsIm5iZiI6MTcxNjgyNjIwOCwicGF0aCI6Ii8xNzA3NjY4MTcvMzMzODc5MTEyLWNiZjI1MjAyLWU1M2EtNGYyMi05NjEyLTE2MjE2YjRhYmVhYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyN1QxNjEwMDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MDUwMWM2ZmZjMTFjMjgxZDAyYmQ2YTI0MTk1NzQ5M2ZjZjRkZWRhYzUyMDM0NWI3N2JiODliZWI3NDRhZTNmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.SyzD36vNLZlY41yLZjJykU-kSJPyNcg61B9X0H0NZmg" alt="hero" height="200"/>
+</div>
 
 ## 2. LightControl 
 *by Jarre Buyck & Rense Vandecasteele*   
@@ -43,11 +46,11 @@ Hieronder vindt u een overzicht van de opdrachten die de studenten in dit vak op
 
 <img src="https://github.com/Kazn3/UCD_TreeSync/blob/main/images/kiosk3.jpg" alt="hero" height="200"/>
 
-## 7. [404] 
+## 7. KampKode 
 *by Kai Cherchye & Robbe de Guytenaer*   
-⚙ GitHub page: 404   
+⚙ [GitHub page](https://github.com/robbedeguytenaer/finaal-rapport)   
 
-<img src="" alt="hero" height="200"/>
+<img src="https://github.com/robbedeguytenaer/finaal-rapport/raw/main/prototype%20deelopdracht%205.png?raw=true" alt="hero" height="200"/>
 
 ## 8. PetWatch 
 *by Sam Deprez & Ine Van de Weghe*   
