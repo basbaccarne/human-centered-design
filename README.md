@@ -57,7 +57,7 @@ Hieronder vindt u een overzicht van de opdrachten die de studenten in dit vak op
 *by Mathijs Bekaert & Tessa Colenbier*   
 ⚙ [GitHub page](https://github.com/tcolenbi/MotionMate)   
 
-## 13. OnTracx subchallenges 
+## 13. TracxBand
 *by Milan Berckmoes & Ruben Rimbaut*   
 ⚙ [GitHub page](https://github.com/RUBRIM2000/UCD_SEM1/)   
 
