@@ -7,22 +7,37 @@ Hieronder vindt u een overzicht van de opdrachten die de studenten in dit vak op
 # Overview of the 24-25 student projects *(work in progress)*
 ## 1. Active Harmony 
 *by Leni Theeten & Amber Barra*   
+
+"Active Harmony" is ontworpen als een stimulerende spel voor 65-plussers—een bron van beweging en mentale uitdaging en een interactieve activiteit waar lichaam en geest samenkomen voor welzijn en plezier.   
+
 ⚙[GitHub page](https://github.com/LeniTheeten/PG-Aging-Young/)
 
 ## 2. CYR
 *by Rösh Gryson & Aldo Van Hese*   
+
+Een interactief muziekspel voor mensen met de ziekte van Parkinson om hun cognitieve -en motorische vaardigheden te verbeteren.   
+
 ⚙[GitHub page](https://github.com/rooooosh/CYR)
 
 ## 3. Intelight
 *by Nand De Croo & Briek De Waele*    
+
+Het combineren van fysieke activiteit en cognitieve stimulatie die zowel het lichaam als de hersenen versterkt, wat helpt om geheugenverlies preventief tegen te gaan.   
+
 ⚙[GitHub page](https://github.com/nanddecroo/UCD)
 
 ## 4. Selico
 *by Bojan Ronsijn & Reijn Lapere*   
+
+Met ons product kan de gebruiker (65+ in een woonzorgcentrum) zelfstandig de motoriek en het cognitief vermogen verbeteren aan de hand van de voorgeschreven oefeningen van de kinesist.   
+
 ⚙[GitHub page](https://github.com/reijnlapere/PGG-Ageing-Young)
 
 ## 5. BRIQ
 *by Kasper Stas & Joachim Waeyaert*   
+
+Hoe kunnen 65-plussers samengebracht worden om aan multisensoriële oefeningen te doen?   
+
 ⚙[GitHub page](https://github.com/Joachim-Waeyaert/Briq)
 
 ## 6. Interative blocks RGM toegepast in een ander innovatief jasje
@@ -35,26 +50,44 @@ Hieronder vindt u een overzicht van de opdrachten die de studenten in dit vak op
 
 ## 8. Feely
 *by Line Aerssens & Victor Fransen*   
+
+Feelie is een systeem dat helpt met het communiceren en ontwikkelen van de emoties van leerlingen van het 1e tot en met het 3e leerjaar in een klascontext.   
+
 ⚙[GitHub page](https://github.com/VictorFransen/Feelie)
 
 ## 9. FlowGuard
 *by Jasper Dekeyser & Daan Dobbelaere*   
+
+De bureau-tool die helpt om een efficiënte en gezonde workflow te onderhouden.   
+
 ⚙[GitHub page](https://github.com/Daan080/UCD/)
 
 ## 10. Pulse
 *by Margot Rysman & Selena Rootsaert*   
+
+De anti-stressband voor het dagelijkse leven.   
+
 ⚙[GitHub page](https://github.com/margotrysman/UCD/)
 
 ## 11. FEELLINK
 *by  Aster Vuylsteke & Aimé Van Alboom*   
+
+Met FEELLINK kan een leerling uit een autiklas zijn emoties en gevoelens makkelijk en laagdrempelig communiceren met de leerkracht om zo conflicten, ongemakken en frustraties bij leerlingen in de klas makkelijker te begrijpen en opgelossen. Ook helpt FEELLINK bij zelfregulatie van de leerling door middel van fidgeting en stimming.   
+
 ⚙[GitHub page](https://github.com/astervu/FEELLINK/)
 
 ## 12. Pet Secrets
 *by Jade van den Abbeele & Hailey Ledain*   
+
+Een slim systeem dat verlatingsangst bij honden en baasjes tegengaat.   
+
 ⚙[GitHub page](https://github.com/JADEVANDENABB/UCD/)
 
 ## 13. VibeLink
 *by Cezar Herbots & Warre De Vriendt*   
+
+Kotstudenten gemakkelijker laten comunniceren met mede kotstudenten.   
+
 ⚙[GitHub page](https://github.com/WarreDV2004/UCD/)
 
 ## 14. Undfined
@@ -63,18 +96,30 @@ Hieronder vindt u een overzicht van de opdrachten die de studenten in dit vak op
 
 ## 15. Remmie
 *by Sid De Munck, Mattiz Vermeulen & Diego Vande Vyvere*   
+
+Een klein apparaatje dat gebruikers zal ondersteunen bij het leren beheersen en hebben van paniekaanvallen.   
+
 ⚙[GitHub page](https://github.com/MattizV/UCD)
 
 ## 16. Medispeech 
 *by Kenji Van Thuyne& Marit Hocedez*   
+
+Medispeech is een apparaat dat spraak omzet in tekst, waardoor de administratieve druk in de zorg afneemt en zorgmedewerkers meer tijd aan patiënten kunnen besteden.   
+
 ⚙[GitHub page](https://github.com/Kenjivt/Medispeech/)
 
 ## 17. ORION
 *by Elias Verdegem & Viktor Fabry*   
+
+Een multi-sensorieel hulpmiddel dat de nachtrust en de nachtelijke gemoedsrust van de mantelzorger van een persoon met dementie bevordert, door het circadiaans ritme, de nachtelijke oriëntatie in ruimte en tijd en bijgevolg de slaapkwaliteit van de persoon met dementie te ondersteunen.   
+
 ⚙[GitHub page](https://github.com/VPJRF/Orion/)
 
 ## 18. Undefined
 *by Peter Demaegdt & Bram Tops*   
+
+Op basis van HRV (hartslagvariatie) en ruimte voor implementatie van cortisolsensoren pauzes voorstellen aan zorgpersoneel.   
+
 ⚙[GitHub page](https://github.com/DePieter/BramPieter)
  
 # Overview of the 23-24 student projects
