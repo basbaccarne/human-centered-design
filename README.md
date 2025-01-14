@@ -4,7 +4,8 @@ Hieronder vindt u een overzicht van de opdrachten die de studenten in dit vak op
 
 *Contactpersoon: [Bastiaan Baccarne](mailto:bastiaan.baccarne@ugent.be?subject=[GitHub]%20Project%20Gebruiksgericht%2SOntwerpen)*
 
-# Overview of the 24-25 student projects *(work in progress)*
+# Overview of the 24-25 student projects    
+*(work in progress)*
 ## 1. Active Harmony 
 *by Leni Theeten & Amber Barra*   
 
