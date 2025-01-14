@@ -6,76 +6,75 @@ Hieronder vindt u een overzicht van de opdrachten die de studenten in dit vak op
 
 # Overview of the 24-25 student projects *(work in progress)*
 ## 1. Active Harmony 
-*by Leni Theeten & Amber Barra*
+*by Leni Theeten & Amber Barra*   
 ⚙[GitHub page](https://github.com/LeniTheeten/PG-Aging-Young/)
 
 ## 2. CYR
-*by Rösh Gryson & Aldo Van Hese*
+*by Rösh Gryson & Aldo Van Hese*   
 ⚙[GitHub page](https://github.com/rooooosh/CYR)
 
 ## 3. Intelight
-*by Nand De Croo & Briek De Waele* 
+*by Nand De Croo & Briek De Waele*    
 ⚙[GitHub page](https://github.com/nanddecroo/UCD)
 
 ## 4. Selico
-*by Bojan Ronsijn & Reijn Lapere*
+*by Bojan Ronsijn & Reijn Lapere*   
 ⚙[GitHub page](https://github.com/reijnlapere/PGG-Ageing-Young)
 
 ## 5. BRIQ
-*by Kasper Stas & Joachim Waeyaert*
+*by Kasper Stas & Joachim Waeyaert*   
 ⚙[GitHub page](https://github.com/Joachim-Waeyaert/Briq)
 
 ## 6. Interative blocks RGM toegepast in een ander innovatief jasje
-*by Jeroen Cieters & Thoma Demets*
+*by Jeroen Cieters & Thoma Demets*   
 ⚙[GitHub page](https://github.com/Thoma-D/UCD)
 
 ## 7. Undefined
-*by Braekevelt, Baptiste & De Spiegeleer, Florine*
-⚙[Enkel een Figma File zonder access](https://www.figma.com/design/Cy5q6bLcNbuYPB8e8v4Wj1/Untitled?node-id=0-
-1&p=f&t=RWDK0Pis2ZzK7HZx-0)
+*by Braekevelt, Baptiste & De Spiegeleer, Florine*   
+⚙[Enkel een Figma File zonder access](https://www.figma.com/design/Cy5q6bLcNbuYPB8e8v4Wj1/Untitled?node-id=0-1&p=f&t=RWDK0Pis2ZzK7HZx-0)
 
 ## 8. Feely
-*by Line Aerssens & Victor Fransen*
+*by Line Aerssens & Victor Fransen*   
 ⚙[GitHub page](https://github.com/VictorFransen/Feelie)
 
 ## 9. FlowGuard
-*by Jasper Dekeyser & Daan Dobbelaere*
+*by Jasper Dekeyser & Daan Dobbelaere*   
 ⚙[GitHub page](https://github.com/Daan080/UCD/)
 
 ## 10. Pulse
-*by Margot Rysman & Selena Rootsaert*
+*by Margot Rysman & Selena Rootsaert*   
 ⚙[GitHub page](https://github.com/margotrysman/UCD/)
 
 ## 11. FEELLINK
-*by  Aster Vuylsteke & Aimé Van Alboom*
+*by  Aster Vuylsteke & Aimé Van Alboom*   
 ⚙[GitHub page](https://github.com/astervu/FEELLINK/)
 
 ## 12. Pet Secrets
-*by Jade van den Abbeele & Hailey Ledain*
+*by Jade van den Abbeele & Hailey Ledain*   
 ⚙[GitHub page](https://github.com/JADEVANDENABB/UCD/)
 
 ## 13. VibeLink
-*by Cezar Herbots & Warre De Vriendt*
+*by Cezar Herbots & Warre De Vriendt*   
 ⚙[GitHub page](https://github.com/WarreDV2004/UCD/)
 
 ## 14. Undfined
-*by Finn Schrijvers & Jento Van Laethem*
+*by Finn Schrijvers & Jento Van Laethem*   
 ⚙[No submission]()
 
 ## 15. Remmie
-*by Sid De Munck, Mattiz Vermeulen & Diego Vande Vyvere*
+*by Sid De Munck, Mattiz Vermeulen & Diego Vande Vyvere*   
 ⚙[GitHub page](https://github.com/MattizV/UCD)
 
 ## 16. Medispeech 
-*by Kenji Van Thuyne& Marit Hocedez*
+*by Kenji Van Thuyne& Marit Hocedez*   
 ⚙[GitHub page](https://github.com/Kenjivt/Medispeech/)
 
 ## 17. ORION
-*by Elias Verdegem & Viktor Fabry*
+*by Elias Verdegem & Viktor Fabry*   
 ⚙[GitHub page](https://github.com/VPJRF/Orion/)
 
 ## 18. Undefined
-*by Peter Demaegdt & Bram Tops*
+*by Peter Demaegdt & Bram Tops*   
 ⚙[GitHub page](https://github.com/DePieter/BramPieter)
  
 # Overview of the 23-24 student projects
