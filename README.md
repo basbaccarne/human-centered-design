@@ -41,12 +41,14 @@ Hoe kunnen 65-plussers samengebracht worden om aan multisensoriële oefeningen t
 
 ⚙[GitHub page](https://github.com/Joachim-Waeyaert/Briq)
 
-## 6. Interative blocks RGM toegepast in een ander innovatief jasje
+## 6. Interative blocks RGM toegepast in een ander innovatief jasje   
 *by Jeroen Cieters & Thoma Demets*   
+
 ⚙[GitHub page](https://github.com/Thoma-D/UCD)
 
 ## 7. LumiLife
 *by Braekevelt, Baptiste & De Spiegeleer, Florine*   
+
 ⚙[GitHub page](https://github.com/FlorineDeSpiegeleer/UCD)
 
 ## 8. Feely
