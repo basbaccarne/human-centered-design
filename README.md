@@ -45,9 +45,9 @@ Hoe kunnen 65-plussers samengebracht worden om aan multisensoriële oefeningen t
 *by Jeroen Cieters & Thoma Demets*   
 ⚙[GitHub page](https://github.com/Thoma-D/UCD)
 
-## 7. Undefined
+## 7. LumiLife
 *by Braekevelt, Baptiste & De Spiegeleer, Florine*   
-⚙[Enkel een Figma File zonder access](https://www.figma.com/design/Cy5q6bLcNbuYPB8e8v4Wj1/Untitled?node-id=0-1&p=f&t=RWDK0Pis2ZzK7HZx-0)
+⚙[GitHub page](https://github.com/FlorineDeSpiegeleer/UCD)
 
 ## 8. Feely
 *by Line Aerssens & Victor Fransen*   
