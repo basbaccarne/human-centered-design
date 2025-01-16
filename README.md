@@ -108,7 +108,7 @@ Een klein apparaatje dat gebruikers zal ondersteunen bij het leren beheersen en 
 ⚙[GitHub page](https://github.com/MattizV/UCD)
 
 ## 16. Medispeech 
-*by Kenji Van Thuyne& Marit Hocedez*   
+*by Kenji Van Thuyne & Marit Hocedez*   
 
 Medispeech is een apparaat dat spraak omzet in tekst, waardoor de administratieve druk in de zorg afneemt en zorgmedewerkers meer tijd aan patiënten kunnen besteden.   
 
