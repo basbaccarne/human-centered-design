@@ -51,8 +51,8 @@ Hoe kunnen 65-plussers samengebracht worden om aan multisensoriële oefeningen t
 
 ⚙[GitHub page](https://github.com/FlorineDeSpiegeleer/UCD)
 
-## 8. Feely
-*by Line Aerssens & Victor Fransen*   
+## 8. Feelie
+*by Linde Aerssens & Victor Fransen*   
 
 Feelie is een systeem dat helpt met het communiceren en ontwikkelen van de emoties van leerlingen van het 1e tot en met het 3e leerjaar in een klascontext.   
 
