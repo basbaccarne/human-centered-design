@@ -58,7 +58,7 @@ Feelie is een systeem dat helpt met het communiceren en ontwikkelen van de emoti
 
 ⚙[GitHub page](https://github.com/VictorFransen/Feelie)
 
-## 9. FlowGuard
+## 9. Flow
 *by Jasper Dekeyser & Daan Dobbelaere*   
 
 De bureau-tool die helpt om een efficiënte en gezonde workflow te onderhouden.   
@@ -94,7 +94,7 @@ Kotstudenten gemakkelijker laten comunniceren met mede kotstudenten.
 ⚙[GitHub page](https://github.com/WarreDV2004/UCD/)
 
 ## 14. Mediflow
-*by Finn Schrijvers & Jento Van Laethem*   
+*by Jento Van Laethem*   
 
 Een scan- en projectiesysteem dat de medicatievoorbereiding vereenvoudigt door visueel aan te geven waar medicatie moet worden geplaatst, met bijkomende controle.   
 
@@ -121,8 +121,8 @@ Een multi-sensorieel hulpmiddel dat de nachtrust en de nachtelijke gemoedsrust v
 
 ⚙[GitHub page](https://github.com/VPJRF/Orion/)
 
-## 18. Undefined
-*by Peter Demaegdt & Bram Tops*   
+## 18. Take Five
+*by Pieter Demaegdt, Finn Schrijvers & Bram Tops*   
 
 Op basis van HRV (hartslagvariatie) en ruimte voor implementatie van cortisolsensoren pauzes voorstellen aan zorgpersoneel.   
 
