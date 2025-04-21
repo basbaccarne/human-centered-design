@@ -9,7 +9,7 @@ Hieronder vindt u een overzicht van de opdrachten die de studenten in dit vak op
 ## 1. Active Harmony 
 *by Leni Theeten & Amber Barra*   
 
-"Active Harmony" is ontworpen als een stimulerende spel voor 65-plussers—een bron van beweging en mentale uitdaging en een interactieve activiteit waar lichaam en geest samenkomen voor welzijn en plezier.   
+Een stimulerend spel voor 65-plussers—een bron van beweging en mentale uitdaging en een interactieve activiteit waar lichaam en geest samenkomen voor welzijn en plezier. 
 
 ⚙[GitHub page](https://github.com/LeniTheeten/PG-Aging-Young/)
 
@@ -41,24 +41,28 @@ Hoe kunnen 65-plussers samengebracht worden om aan multisensoriële oefeningen t
 
 ⚙[GitHub page](https://github.com/Joachim-Waeyaert/Briq)
 
-## 6. Interative blocks RGM toegepast in een ander innovatief jasje   
+## 6. MuziSym   
 *by Jeroen Cieters & Thoma Demets*   
+
+Het interactieve spel dat cognitieve, sensorische en motorische elementen combineert op een muzikale, toegankelijke en gebruiksvriendelijke manier.   
 
 ⚙[GitHub page](https://github.com/Thoma-D/UCD)
 
 ## 7. LumiLife
 *by Braekevelt, Baptiste & De Spiegeleer, Florine*   
 
+Interactieve, lichtgevende pads die ouderen op een leuke en toegankelijke manier stimuleren om fysiek en cognitief actief te blijven.   
+
 ⚙[GitHub page](https://github.com/FlorineDeSpiegeleer/UCD)
 
 ## 8. Feelie
 *by Linde Aerssens & Victor Fransen*   
 
-Feelie is een systeem dat helpt met het communiceren en ontwikkelen van de emoties van leerlingen van het 1e tot en met het 3e leerjaar in een klascontext.   
+Feelie is een systeem dat helpt met het communiceren en ontwikkelen van de emoties van leerlingen van het 1e tot en met het 3e leerjaar in een klascontext.      
 
 ⚙[GitHub page](https://github.com/VictorFransen/Feelie)
 
-## 9. Flow
+## 9. FlowGuard
 *by Jasper Dekeyser & Daan Dobbelaere*   
 
 De bureau-tool die helpt om een efficiënte en gezonde workflow te onderhouden.   
@@ -68,7 +72,7 @@ De bureau-tool die helpt om een efficiënte en gezonde workflow te onderhouden.
 ## 10. Pulse
 *by Margot Rysman & Selena Rootsaert*   
 
-De anti-stressband voor het dagelijkse leven.   
+De anti-stressband voor het detecteren, communiceren en reguleren voor meer balans.      
 
 ⚙[GitHub page](https://github.com/margotrysman/UCD/)
 
@@ -101,11 +105,11 @@ Een scan- en projectiesysteem dat de medicatievoorbereiding vereenvoudigt door v
 ⚙[GitHub page](https://github.com/Finn-Schrijvers/UCD_SEM1)
 
 ## 15. Remmie
-*by Sid De Munck, Mattiz Vermeulen & Diego Vande Vyvere*   
+*by Sid De Munck*   
 
 Een klein apparaatje dat gebruikers zal ondersteunen bij het leren beheersen en hebben van paniekaanvallen.   
 
-⚙[GitHub page](https://github.com/MattizV/UCD)
+⚙[GitHub page](https://github.com/sidmunck/UCD)
 
 ## 16. Medispeech 
 *by Kenji Van Thuyne & Marit Hocedez*   
@@ -126,7 +130,12 @@ Een multi-sensorieel hulpmiddel dat de nachtrust en de nachtelijke gemoedsrust v
 
 Op basis van HRV (hartslagvariatie) en ruimte voor implementatie van cortisolsensoren pauzes voorstellen aan zorgpersoneel.   
 
-⚙[GitHub page](https://github.com/DePieter/BramPieter)
+## 19. HiWayBuddy
+*by Mattiz Vermeulen & Diego Vande Vyvere*   
+
+Een slimme sociale GPS voor groepritten met de motorfiets.   
+
+⚙[GitHub page]()
  
 # Overview of the 23-24 student projects
 ## 1. Car Dashboard 
