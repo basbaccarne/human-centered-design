@@ -130,12 +130,12 @@ Een multi-sensorieel hulpmiddel dat de nachtrust en de nachtelijke gemoedsrust v
 
 Op basis van HRV (hartslagvariatie) en ruimte voor implementatie van cortisolsensoren pauzes voorstellen aan zorgpersoneel.   
 
-## 19. HiWayBuddy
+## 19. Revup
 *by Mattiz Vermeulen & Diego Vande Vyvere*   
 
-Een slimme sociale GPS voor groepritten met de motorfiets.   
+Een slimme GPS voor motorrijders die groepscommunicatie vergemakkelijkt en emotionele signalen kan vertalen naar acties zoals pauzes of routeaanpassingen.
 
-⚙[GitHub page]()
+⚙[GitHub page](https://github.com/Diego-vdv/UCD)
  
 # Overview of the 23-24 student projects
 ## 1. Car Dashboard 
