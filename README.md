@@ -9,9 +9,9 @@ Hieronder vindt u een overzicht van de opdrachten die de studenten in dit vak op
 ## 1. Active Harmony 
 *by Leni Theeten & Amber Barra*   
 
-Een stimulerend spel voor 65-plussers—een bron van beweging en mentale uitdaging en een interactieve activiteit waar lichaam en geest samenkomen voor welzijn en plezier. 
+"Active Harmony" stimuleert op een toegankelijke en leuke manier de fysieke en cognitieve gezondheid van ouderen, door middel van, interactieve muziekspelletjes die inspelen op herkenning, nostalgie en beweging.    
 
-⚙[GitHub page](https://github.com/LeniTheeten/PG-Aging-Young/)
+⚙[GitHub page](https://github.com/LeniTheeten/PG-Aging-Young)
 
 ## 2. CYR
 *by Rösh Gryson & Aldo Van Hese*   
@@ -114,9 +114,9 @@ Een klein apparaatje dat gebruikers zal ondersteunen bij het leren beheersen en 
 ## 16. Medispeech 
 *by Kenji Van Thuyne & Marit Hocedez*   
 
-Medispeech is een apparaat dat spraak omzet in tekst, waardoor de administratieve druk in de zorg afneemt en zorgmedewerkers meer tijd aan patiënten kunnen besteden.   
+Medispeech is een apparaat dat spraak omzet in tekst, waardoor de administratieve druk in de zorg afneemt en zorgmedewerkers meer tijd aan patiënten kunnen besteden.
 
-⚙[GitHub page](https://github.com/Kenjivt/Medispeech/)
+⚙[GitHub page](https://github.com/Kenjivt/Medispeech2.0/)
 
 ## 17. ORION
 *by Elias Verdegem & Viktor Fabry*   
