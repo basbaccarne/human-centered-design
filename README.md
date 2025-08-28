@@ -73,7 +73,7 @@ De bureau-tool die helpt om een efficiënte en gezonde workflow te onderhouden.
 
 De anti-stressband voor het detecteren, communiceren en reguleren voor meer balans.      
 
-⚙[GitHub page](https://github.com/margotrysman/UCD/)
+⚙[GitHub page](/)
 
 ## 11. FEELLINK
 *by  Aster Vuylsteke & Aimé Van Alboom*   
