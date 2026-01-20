@@ -4,6 +4,136 @@ Hieronder vindt u een overzicht van de opdrachten die de studenten in dit vak op
 
 *Contactpersoon: [prof. dr. Bastiaan Baccarne](mailto:bastiaan.baccarne@ugent.be?subject=[GitHub]%20Project%20Gebruiksgericht%2SOntwerpen)*
 
+# Overview if the 25-26 student projects
+## 1. Afbouwen tutgebruik
+*by Arne Oosterbosch & Loes Vanmeerbeek*   
+
+Een slimme tool die kinderen en ouders helpt bij het afbouwen van het tutgebruik.
+
+⚙[GitHub page](https://github.com/Loesvmb/afbouwen-tutgebruik)
+
+
+## 2. PlayClean - Play. Clean. Repeat.
+*by Rahul Jaswal & Arthur Verhaeghe*   
+
+Een slimme speelgoedkast die kinderen op een speelse en gestructureerde manier leert opruimen en bewuster laat spelen. 
+
+⚙[GitHub page](https://github.com/RJ-917/Opruimkast)
+
+## 3. Lethe
+*by Hanne Dierickx & Otto Vandroogenbroeck*   
+
+Een slimme kapstok die kinderen helpt om hun hobbyzakken te maken.
+
+⚙[GitHub page](https://github.com/OttoVdb24/Project_Lethe)
+
+## 4. Planda
+*by Doren Vermaut & Luna Van Tittelboom & Bram Eeckhout*   
+
+Een slimme knuffelbeer die kinderen begeleidt tijdens de dagplanning.
+
+⚙[GitHub page](https://github.com/lunavt6/Planda)
+
+## 5. Wobble
+*by Rootsaert Selena & De Bleser Axelle*   
+
+A smart, child-focused product that supports children in recognizing and regulating their emotions. 
+
+⚙[GitHub page](https://github.com/Celina-2005/Wobble)
+
+## 6. Slimme lichtprojector
+*by Felix Vanhoutte & Jendrik Bottelberghe*   
+
+Een slimme lichtprojector die kinderen ondersteunt bij het krijgen van een goede nachtrust.
+
+⚙[GitHub page](https://github.com/JendrikBot/Slimme-Projector/)
+
+## 8. Slimme reistafel
+*by Leen Geenens & Nils Lammertijn*   
+
+Een reistafel om lange autoritten minder stressvol te maken.
+
+⚙[GitHub page](https://github.com/NilsLammertijn/project-ggo)
+
+## 9. Feel The Score
+*by Kobe Holderbeke & Mattea Claeys*   
+
+Een handsfree, toegankelijk systeem dat slechtzienden en blinden helpt muziek intuïtief te leren en te spelen zonder afhankelijk te zijn van traditionele braillepartituren.
+
+⚙[GitHub page](https://github.com/KobeHolderbeke/Visually-Impaired)
+
+## 10. TasteMate
+*by Leon Debonne & Staf Logie*   
+
+Een slimme koelkastadd-on die het gebruiken van de koelkast vergemakkelijkt voor blinden en slechtzienden.   
+
+⚙[GitHub page](https://github.com/LeonDebonne/TasteMate)
+
+## 11. SensePath
+*by Sam Piryns, Titus Impens, Han Deburchgraeve*   
+
+Ear free, intuitive navigation indoors.
+
+⚙[GitHub page](https://github.com/spiryns/UCD)
+
+## 12. SHERPA
+*by Corbin Breakevelt & Lander Dumont & Roland Derynck*   
+
+Tactiele GPS: een navigatiesysteem voor blinden dat hen tijdens hun traject begeleidt aan de hand van tactiele snapshots van de omgeving.  
+
+⚙[GitHub page](https://github.com/Lander989/Tactiele-GPS)
+
+## 13. No GitHub
+*by Marie en Janne*   
+
+Een...
+
+⚙[GitHub page](https)
+
+
+## 14. OXYBLOOM
+*by Dré Devaere & Rune Seghers*   
+
+Een innovatief product dat gebruikers begeleidt bij het ventileren op de juiste momenten en op de juiste manier.    
+
+⚙[GitHub page](https://github.com/runeseghers/OXYBLOOM)
+
+## 15. ZUIN
+*by Sam Verkimpe & Maxim Depever & Jitse Van Laer*   
+
+ZUIN helpt kinderen en ouders meer te weten te komen en bevorderd communicatie over energieverbruik in huis.   
+
+⚙[GitHub page](https://github.com/Grotesmurf696/ZUIN/)
+
+## 16. De Drooghulp
+*by Djurre Roose & Jutte De Baets*   
+
+Een slim apparaatje dat helpt de beste manier te kiezen om de was te drogen.
+
+⚙[GitHub page](https://github.com/djroose/De-Drooghulp)
+
+## 17. Ecolux
+*by Viktor Caluwaert, Yenthe Bode & Vic Syryn*   
+
+Een slim product dat energieverlies beperkt.
+
+⚙[GitHub page](https://github.com/Vic-Syryn/EcoLux)
+
+## 18. ReServe
+*by Victor Raes, Bas Matthys & Oskar Sergier*   
+
+Een lokaal opslag punt voor voedseloverschotten die nog eetbaar zijn.
+
+⚙[GitHub page](https://github.com/oskarsergier/ReServe_Box)
+
+## 19. AEOM
+*by Miro Mangelschots & Kylian Maelstaf & Rune Coppieters*   
+
+Een slimme interface die gezinnen helpt zonne-energie optimaal te gebruiken en hun enrgieverbruik beter te begrijpen.
+
+⚙[GitHub page](https://github.com/Rune399/AEOM)
+
+
 # Overview of the 24-25 student projects    
 ## 1. Active Harmony 
 *by Leni Theeten & Amber Barra*   
