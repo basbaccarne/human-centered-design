@@ -4,7 +4,7 @@ Hieronder vindt u een overzicht van de opdrachten die de studenten in dit vak op
 
 *Contactpersoon: [prof. dr. Bastiaan Baccarne](mailto:bastiaan.baccarne@ugent.be?subject=[GitHub]%20Project%20Gebruiksgericht%2SOntwerpen)*
 
-# Overview if the 25-26 student projects
+# Overview of the 25-26 student projects
 ## 1. Afbouwen tutgebruik
 *by Arne Oosterbosch & Loes Vanmeerbeek*   
 
