@@ -83,12 +83,12 @@ Tactiele GPS: een navigatiesysteem voor blinden dat hen tijdens hun traject bege
 
 ⚙[GitHub page](https://github.com/Lander989/Tactiele-GPS)
 
-## 13. No GitHub
-*by Marie en Janne*   
+## 13. CONNEX
+*by Marie De Clercq & Janne Swijsen*   
 
-Een...
+Een armband die blinde en slechtziende kinderen helpt elkaar te vinden op de speelplaats en samen spelen stimuleert.   
 
-⚙[GitHub page](https)
+⚙[GitHub page](https://github.com/JanneSwijsen/connecting-bracelets/)
 
 
 ## 14. OXYBLOOM
