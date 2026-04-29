@@ -6,7 +6,7 @@ Hieronder vindt u een overzicht van de opdrachten die de studenten in dit vak op
 
 # Overview of the 25-26 student projects
 ## 1. Afbouwen tutgebruik
-*by Arne Oosterbosch & Loes Vanmeerbeek*   
+*by Loes Vanmeerbeek (supported by Arne Oosterbosch)*   
 
 Een slimme tool die kinderen en ouders helpt bij het afbouwen van het tutgebruik.
 
@@ -42,14 +42,14 @@ A smart, child-focused product that supports children in recognizing and regulat
 ⚙[GitHub page](https://github.com/Celina-2005/Wobble)
 
 ## 6. Slimme lichtprojector
-*by Felix Vanhoutte & Jendrik Bottelberghe*   
+*by Jendrik Bottelberghe & Felix Vanhoutte*   
 
 Een slimme lichtprojector die kinderen ondersteunt bij het krijgen van een goede nachtrust.
 
 ⚙[GitHub page](https://github.com/JendrikBot/Slimme-Projector/)
 
 ## 8. Slimme reistafel
-*by Leen Geenens & Nils Lammertijn*   
+*by Leen Geenens (supported by Nils Lammertijn)*   
 
 Een reistafel om lange autoritten minder stressvol te maken.
 
