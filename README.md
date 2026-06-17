@@ -5,7 +5,7 @@ Hieronder vindt u een overzicht van de opdrachten die de studenten in dit vak op
 *Contactpersoon: [prof. dr. Bastiaan Baccarne](mailto:bastiaan.baccarne@ugent.be?subject=[GitHub]%20Project%20Gebruiksgericht%2SOntwerpen)*
 
 # Overview of the 25-26 student projects
-## 1. Afbouwen tutgebruik
+## 1. Beert verhuist
 *by Loes Vanmeerbeek (supported by Arne Oosterbosch)*   
 
 Een slimme tool die kinderen en ouders helpt bij het afbouwen van het tutgebruik.
@@ -65,7 +65,7 @@ Een handsfree, toegankelijk systeem dat slechtzienden en blinden helpt muziek in
 ## 10. TasteMate
 *by Leon Debonne & Staf Logie*   
 
-Een slimme koelkastadd-on die het gebruiken van de koelkast vergemakkelijkt voor blinden en slechtzienden.   
+TasteMate, een slimme koelkastadd-on die het gebruiken van de koelkast vergemakkelijkt voor blinden en slechtzienden.  
 
 ⚙[GitHub page](https://github.com/LeonDebonne/TasteMate)
 
@@ -79,7 +79,7 @@ Ear free, intuitive navigation indoors.
 ## 12. SHERPA
 *by Corbin Breakevelt & Lander Dumont & Roland Derynck*   
 
-Tactiele GPS: een navigatiesysteem voor blinden dat hen tijdens hun traject begeleidt aan de hand van tactiele snapshots van de omgeving.  
+Tactiele GPS: een navigatiesysteem voor blinden en slechtziende dat hen tijdens hun traject begeleidt aan de hand van een tactiele wijzer dat hen de weg toont.  
 
 ⚙[GitHub page](https://github.com/Lander989/Tactiele-GPS)
 
@@ -98,10 +98,10 @@ Een innovatief product dat gebruikers begeleidt bij het ventileren op de juiste 
 
 ⚙[GitHub page](https://github.com/runeseghers/OXYBLOOM)
 
-## 15. ZUIN
+## 15. ZUÏN
 *by Sam Verkimpe & Maxim Depever & Jitse Van Laer*   
 
-ZUIN helpt kinderen en ouders meer te weten te komen en bevorderd communicatie over energieverbruik in huis.   
+ZUIN helpt kinderen en ouders meer te weten te komen en bevordert communicatie over energieverbruik in huis.   
 
 ⚙[GitHub page](https://github.com/Grotesmurf696/ZUIN/)
 
@@ -122,7 +122,7 @@ Een slim product dat energieverlies beperkt.
 ## 18. ReServe
 *by Victor Raes, Bas Matthys & Oskar Sergier*   
 
-Een lokaal opslag punt voor voedseloverschotten die nog eetbaar zijn.
+Een lokaal opslagpunt voor voedseloverschotten die nog eetbaar zijn.
 
 ⚙[GitHub page](https://github.com/oskarsergier/ReServe_Box)
 
