@@ -1,5 +1,5 @@
 # Human-Centered Design
-Dit is de algemene overzichtspagina voor het vak gebruiksgericht ontwerpen aan de opleiding [Industrieel Ingenieur: Industrieel Ontwerpen @ Universiteit Gent](https://www.ugent.be/campus-kortrijk/nl/opleidingen/industrieel-ontwerpen) (2de bachelor). 
+Dit is de algemene overzichtspagina voor het vak gebruiksgericht ontwerpen aan de opleiding [Industrieel Ingenieur: Industrieel Ontwerpen @ Universiteit Gent](https://studiekiezer.ugent.be/brochurescan/283885329) (2de bachelor). 
 Hieronder vindt u een overzicht van de opdrachten die de studenten in dit vak opleverden.   
 
 *Contactpersoon: [prof. dr. Bastiaan Baccarne](mailto:bastiaan.baccarne@ugent.be?subject=[GitHub]%20Project%20Gebruiksgericht%2SOntwerpen)*
